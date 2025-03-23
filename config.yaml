@@ -1,0 +1,6 @@
+data:
+  raw_data_path : ../data/raw
+  split_data : ./data/silver
+  train_data : ../data/gold/train
+visualaization:
+  loc : ../visuals
